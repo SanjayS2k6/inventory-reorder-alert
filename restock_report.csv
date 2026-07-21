@@ -1,0 +1,5 @@
+Item Name,Current Quantity,Threshold,Priority,Suggested Reorder
+Rice,15,50,Low,85
+Milk,5,20,Low,35
+Oil,0,30,Critical,60
+Soap,18,20,Low,22
